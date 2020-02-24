@@ -1,6 +1,9 @@
 {
   "menuItems": [
     {
+      "name": "Accreditation Document Repository"
+    },
+    {
       "name": "Section 1: Agency Authority, Role & Responsibility",
       "menu": [
         ""
