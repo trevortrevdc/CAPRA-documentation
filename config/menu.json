@@ -16,7 +16,11 @@
       "name": "Configuration"
     },
     {
-      "name": "Section 1: Agency Authority, Role & Responsibility"
+      "name": "Section 1: Agency Authority, Role & Responsibility",
+      "menu": [
+        "01.01.00 - Source of Authority",
+        "01.02.00 - Periodic Timetable for Review of Documents"
+      ]
     }
   ]
 }
