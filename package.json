@@ -19,7 +19,7 @@
   "main": "index.js",
   "dependencies": {
     "docz": "latest",
-    "gatsby-plugin-netlify-cms": "^4.1.39",
+    "gatsby-plugin-netlify-cms": "^7.3.0",
     "netlify-cms-app": "^2.11.18",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
